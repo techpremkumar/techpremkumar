@@ -5,7 +5,7 @@ Student  @ Panimalar Enginnering College
 - 🔭 Here's my [https://techpremkumar.github.io/PORTFOLIO-PREM-/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
-- 💻 I am a competitive programmer at Leetcode, Codechef
+- 💻 I am a competitive programmer at Leetcode,Hackerrank
 - ⚡  Always: learning new things.
 - 📫 How to reach me :
 - <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/premkumarv93/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/mr_prem_.93/)
