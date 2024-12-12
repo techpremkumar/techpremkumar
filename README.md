@@ -22,12 +22,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Projects
 
 - [Cofee Shop Sales Analysis](https://github.com/techpremkumar/ERIC-COFEE-SHOP-SALES-): An analysis project providing comprehensive insights into business operations.
-- [Order sales  Analysis]([https://www.linkedin.com/posts/pradeep-m-analyst_datamagic-reviveinsights-codebasics-activity-7155899561398427648-r_JB?utm_source=share&utm_medium=member_desktop](https://github.com/techpremkumar/POWER-BI-VISUALIZATION)): Analyzed data to optimize operations and improve guest experience in the sector. in Blink It company.
-- [Swiggy Landing Page](https://swiggy-clone-page.vercel.app/): this webpage is a clone of swiggy app  and also consists of various sections
+- [Order sales  Analysis](https://github.com/techpremkumar/POWER-BI-VISUALIZATION)): Analyzed data to optimize operations and improve guest experience in the sector. in Blink It company.
+- [Swiggy Landing Page](https://swiggy-clone-page.vercel.app/): this webpage is a clone of swiggy app  and also consists of various platforms
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pradeep-m-analyst](https://www.linkedin.com/in/premkumarv93/)/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premkumarv93/)/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)]((https://starlit-kashata-8090c2.netlify.app/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vengateshprem14@gmail.com)
 
