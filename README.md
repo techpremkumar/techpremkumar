@@ -26,8 +26,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - [Swiggy Landing Page](https://swiggy-clone-page.vercel.app/): this webpage is a clone of swiggy app  and also consists of various platforms
 
 ## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premkumarv93/)/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premkumarv93/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://starlit-kashata-8090c2.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vengateshprem14@gmail.com)
 
